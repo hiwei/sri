@@ -1,0 +1,62 @@
+[
+	{
+		"city": "Colombo",
+		"feature" : ["Modern", "Shopping", "Art", "Night Life"],
+		"info": "The commercial capital of Sri Lanka, Colombo is a busy and fast developing city with modern structures and technology. Colombo hosts star class hotels and restaurants as well as budget lodgings for the discerning traveler. English is widely spoken around the city. There are lots of activities to do, including the dancing at one of the reputed night clubs, a movie at the cinema, luncheon at one of the many stylish boutique styled cafes spotted around Colombo or dine and shop at the recently renovated Dutch Hospital food and shopping arena."
+	},
+	{
+		"city": "Negombo",
+		"feature" : ["Beach"],
+		"info": "Located just 35 km north of the capital city Colombo, and just 6km from the international airport, you can find tourist beaches, fishing villages and coconut estates in this city well-known for its seafood. Things to see include Catholic churches, the lovely lagoon and romantic sunsets and outrigger canoes, when you visit Negombo."
+	},
+	{
+		"city": "Kandy",
+		"feature" : ["Culture", "Shopping", "Art"],
+		"info": "Located 500m above the sea level it is the capital and gateway to the hill country. Also known as the royal city of Kandy, a UNESCO World Heritage Site, it was the last capital of the Singhalese Kingdom, Kandy has a charisma of its own. It's respected and visited by many a Buddhist as it is home to the Temple of the Tooth. Kandy is famed for its souvenirs – crafts, batiks, silks and more! You could visit Kandy for local crafts, batiks, fabrics and gems."
+	},
+	{
+		"city": "Galle",
+		"feature" : ["Beach", "Shopping", "Art"],
+		"info": "Galle is a natural harbour and famous for its Dutch Fort, a UNESCO World Heritage Site, with impressive walls, museums, churches and pretty boutique hotels that attracts many a tourist. It's also a diving heaven where food is scrumptious and with small hotels and guesthouses as well as that all important great stretch of beach!"
+	},
+	{
+		"city": "Anuradhapura",
+		"feature" : ["Culture", "Art"],
+		"info": "Sri Lanka’s first capital was founded in 5c. B.C. by its first King Pandukabhaya. A great hydraulic civilization with mathematically accurate irrigation feats – massive tanks, large reservoirs, ornamental ponds,  irrigation canals and waterways. It is also an ancient city filled with architectural marvels in the form of colossal dagobas, palaces, rock palaces, 9 storied buildings and tunnel systems arose in this era. Anuradhapura is recognized as a UNESCO World Heritage Site."
+	},
+	{
+		"city": "Sigiriya",
+		"feature" : ["Safari", "Culture", "Art"],
+		"info": "Sigiriya with its famed Rock Fortress of King Kashyapa was once a royal citadel. The name Sigiriya means Lion’s Rock in Sinhalese; An important urban planning site of the 1st millennium, it has symmetrical man made designs including gardens which were once well landscaped. Main visitor attractions include the Mirror Wall, the Terraced Gardens, the Lion’s Mouth, the Lion’s Gate, and the Palace atop the rock."
+	},
+	{
+		"city": "Polonnaruwa",
+		"feature" : ["Culture"],
+		"info": "Located 216 km from Colombo, this UNESCO World Heritage Site is famed for its ancient arts and water features. Places to visit include Parakramabahu Samudraya, Nissanka Latha Mandapaya, The Vatadage, Gal Vihare made of granite, Kiri Vehera, see for yourself the artistic capability of ancient Sri Lankans on moonstones, guard stones and other beautiful sculptures."
+	},
+	{
+		"city": "Mirissa",
+		"feature" : ["Beach", "Night Life"],
+		"info": "Mirrissa is famous for whale watching trips, Weligama to sit by the beautiful bat and watch stilt fishermen, an sight the house built by a French Count on the little islet off the coast, the Dutch Star Fort at Matara and the underground Werahera temple."
+	},
+	{
+		"city": "Hatton",
+		"feature" : ["Hiking", "Tea Garden"],
+		"info": "Hatton is one of the busiest cities in the hill country of Sri Lanka and is colloquially known as the tea capital of the country, as it is the central point for most upcountry tea growing regions, such as Maskeliya, Talawakelle, Bogawantalawa and Dickoya. And Hatton serves as a gateway to Adam's Peak, which is a sacred mountain in Sri Lanka."
+	},
+	{
+		"city": "Nuwara Eliya",
+		"feature" : ["Safari", "Culture", "Modern", "Tea Garden"],
+		"info": "Its name means city on the plain or city of light. The city is the administrative capital of Nuwara Eliya District, with a picturesque landscape and temperate climate. It is at an altitude of 1,868m and is considered to be the most important location for tea production in Sri Lanka. The city is overlooked by Pidurutalagala, the tallest mountain in Sri Lanka. Nuwara Eliya is known for its temperate, cool climate – the coolest area in Sri Lanka."
+	},
+	{
+		"city": "Ella",
+		"feature" : ["Culture", "Modern", "Shopping", "Art", "Night Life", "Tea Garden"],
+		"info": "Here's everyone’s favourite hill-country village, and the place to ease off the travel accelerator with a few leisurely days resting in your choice of some of the country’s best guesthouses. The views through Ella Gap are stunning, and on a clear night you can even spy the subtle glow of the Great Basses lighthouse on Sri Lanka’s south coast. Don’t be too laid-back though; definitely make time for waterfalls and viewpoints. After building up a hiking-inspired appetite, look forward to Sri Lanka’s best home-cooked food and a reviving cuppa."
+	},
+	{
+		"city": "Haputale",
+		"feature" : ["Safari", "Tea Garden"],
+		"info": "Haputale is a town of Badulla District in the Uva Province. The area has a rich bio-diversity dense with numerous varieties of flora and fauna. It's surrounded by hills covered with cloud forests and tea plantations. The town has a cooler climate than its surroundings, due to its elevation."
+	}
+]
