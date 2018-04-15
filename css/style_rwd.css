@@ -202,7 +202,7 @@
 
 @media screen and (min-width: 0px) and (max-width: 640px) {
 	body {
-		font-size: 10pt;
+		font-size: 12pt;
 		background-image: none;
 	}
 	body:before {
