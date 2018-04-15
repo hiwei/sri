@@ -1,0 +1,304 @@
+/* RWD */
+@media screen and (min-width: 1281px) and (max-width: 1440px) {
+	body {
+		font-size: 16pt;
+	}
+	li, #intro {
+		font-size: 20pt;
+	}
+	#exploreIcon, #homepage p {
+		font-size: 70pt;
+	}
+	#intro p {
+		font-size: 36pt;
+	}
+	#mainblock p, .cityname {
+		font-size: 30pt;
+	}
+
+	#intro {
+		width: 800px;
+	}
+	#mainblock, #resultblock {
+		width: 1000px;
+	}
+	#mainblock_left, #mainblock_right {
+		width: 400px;
+	}
+	#mainblock_left {
+		margin-left: 80px;
+	}
+	#mainblock_right {
+		margin-right: 80px;
+	}
+	#resultcontainer_feature {
+		padding: 0 50px;
+	}
+	.info_item_feature, .info_item_city {
+		width: 350px;
+	}
+	.info_item_city {
+		width: 900px;
+	}
+	.info_item_feature img, .info_item_city img {
+		width: 350px;
+	}
+	.info_city_right {
+		width: 500px;
+		padding: 0 25px;
+	}
+	.cityname::after {
+		width: 40px;
+	}
+	#search_icon, #home_icon {
+		bottom: 6%;
+		width: 80px;
+		height: 80px;
+	}
+}
+
+
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+	body {
+		font-size: 14pt;
+	}
+	li, #intro {
+		font-size: 18pt;
+	}
+	#exploreIcon, #homepage p {
+		font-size: 60pt;
+	}
+	#intro p {
+		font-size: 30pt;
+	}
+	#mainblock p, .cityname {
+		font-size: 24pt;
+	}
+
+	#intro {
+		width: 700px;
+	}
+	#mainblock, #resultblock {
+		width: 800px;
+	}
+	#mainblock_left, #mainblock_right {
+		width: 300px;
+	}
+	#mainblock_left {
+		margin-left: 60px;
+	}
+	#mainblock_right {
+		margin-right: 60px;
+	}
+	#resultcontainer_feature {
+		padding: 0 20px;
+	}
+	.info_item_feature, .info_item_city {
+		width: 300px;
+		padding: 20px;
+		margin: 20px;
+	}
+	.info_item_city {
+		width: 720px;
+	}
+	.info_item_feature img, .info_item_city img {
+		width: 300px;
+	}
+	.info_city_right {
+		width: 380px;
+		padding: 0 20px;
+	}
+	.cityname::after {
+		margin: 10px auto 5px auto;
+		border-bottom: 3px solid #96B9B3;
+		width: 25px;
+	}
+	#search_icon, #home_icon {
+		bottom: 5%;
+		width: 60px;
+		height: 60px;
+	}
+}
+
+@media screen and (min-width: 641px) and (max-width: 1024px) {
+	body {
+		font-size: 12pt;
+	}
+	li, #intro {
+		font-size: 16pt;
+	}
+	#exploreIcon, #homepage p {
+		font-size: 40pt;
+	}
+	#intro p {
+		font-size: 24pt;
+	}
+	#mainblock p, .cityname {
+		font-size: 20pt;
+	}
+	#intro {
+		width: 500px;
+		padding: 80px 0 180px 0;
+	}
+	#mainblock, #resultblock {
+		width: 550px;
+	}
+	#mainblock_left, #mainblock_right {
+		width: 250px;
+	}
+	#mainblock_left {
+		margin-left: 15px;
+	}
+	#mainblock_right {
+		margin-right: 15px;
+	}
+	#mainblock p::after {
+		margin: 30px 0 0 20px;
+	}
+	#resultblock {
+		padding: 0 0 50px 0;
+	}
+	#resultcontainer_feature {
+		column-count: 1;
+		padding: 0 0px;
+	}
+	.info_item_feature, .info_item_city {
+		width: 400px;
+		padding: 25px;
+		margin: 25px 50px;
+	}
+	.info_item_feature img, .info_item_city img {
+		width: 400px;
+	}
+	.info_item_city img {
+		clear: left;
+	}
+	.info_city_right {
+		clear: right;
+		width: 400px;
+		margin: auto;
+		padding: 0;
+	}
+	.cityname::after {
+		margin: 10px auto 5px auto;
+		width: 25px;
+	}
+	#search_icon, #home_icon {
+		display: inline-block;
+		position: relative;
+		width: 60px;
+		height: 60px;
+	}
+	#search_icon {
+		float: left;
+		margin-left: 15%;
+	}
+	#home_icon {
+		float: right;
+		margin-right: 15%;
+	}
+
+}
+
+@media screen and (min-width: 0px) and (max-width: 640px) {
+	body {
+		font-size: 10pt;
+	}
+	#intro {
+		font-size: 14pt;
+	}
+	ul {
+		margin: 0;
+		text-align: center;
+	}
+	li {
+		font-size: 16pt;
+		display: inline-block;
+		margin: 1.5% 3%;
+	}
+	li:hover {
+		padding: 0;
+	}
+	#exploreIcon {
+		top: 55vh;
+	}
+	#exploreIcon, #homepage p {
+		font-size: 30pt;
+		letter-spacing: 2px;
+	}
+	#intro p {
+		font-size: 20pt;
+	}
+	#mainblock p, .cityname {
+		font-size: 20pt;
+		text-align: center;
+	}
+	#intro {
+		width: 90%;
+		padding: 10% 0 35% 0;
+	}
+	#mainblock, #resultblock {
+		width: 85%;
+	}
+	#mainblock_left, #mainblock_right {
+		display: block;
+		clear: both;
+		margin: auto;
+		width: 100%;
+		padding: 5% 0;
+	}
+	#mainblock_left {
+		clear: left;
+		margin: auto;
+	}
+	#mainblock_right {
+		clear: right;
+		margin: auto;
+	}
+	#mainblock p::after {
+		margin: 15px auto 10px auto;
+	}
+	#resultblock {
+		padding: 0 0 50px 0;
+	}
+	#resultcontainer_feature {
+		column-count: 1;
+		padding: 0 0px;
+	}
+	.info_item_feature, .info_item_city {
+		width: 80%;
+		padding: 5%;
+		margin: 5%;
+	}
+	.info_item_feature img, .info_item_city img {
+		width: 100%;
+	}
+	.info_item_city img {
+		clear: left;
+	}
+	.info_city_right {
+		clear: right;
+		width: 100%;
+		margin: auto;
+		padding: 0;
+	}
+	.cityname::after {
+		margin: 10px auto 5px auto;
+		width: 25px;
+	}
+	#search_icon, #home_icon {
+		display: inline-block;
+		position: relative;
+		width: 50px;
+		height: 50px;
+	}
+	#search_icon {
+		float: left;
+		margin-left: 15%;
+	}
+	#home_icon {
+		float: right;
+		margin-right: 15%;
+	}
+
+}
